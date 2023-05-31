@@ -58,7 +58,7 @@ https://github.com/bhayanimeet/flutter_thought_app/assets/121868259/c60f34af-945
 
 <h3 align="left">🧑‍💻 License:</h3>
 
-- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
+- All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
 - This project is [MIT](LICENSE.md) Licensed.
 
 
