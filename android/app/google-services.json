@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480802828835",
+    "project_id": "practical-test-39602",
+    "storage_bucket": "practical-test-39602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480802828835:android:db45fceb4ba8aa9c61b796",
+        "android_client_info": {
+          "package_name": "com.meet90.practical_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480802828835-qhgd7en8g1dutqu4rdkvaov49ish39m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meet90.practical_test",
+            "certificate_hash": "d8d2434a9cb266fb47f5bfc315933d3cef289637"
+          }
+        },
+        {
+          "client_id": "480802828835-47ovahao6pu8m361m38l22srhcl2c6rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe8LQFTYTWXxV6fkn0S0wdiJYZelbDPS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480802828835-47ovahao6pu8m361m38l22srhcl2c6rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
